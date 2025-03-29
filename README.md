@@ -38,12 +38,18 @@ It covers:
    - Just spending more on healthcare doesn’t always lead to better outcomes.  
    - **Access to quality care, education, and nutrition** play a bigger role.  
 
+---
+
+## 📈 Visuals & Results : [Insights](https://github.com/NikhilRoyDA/Life-Expectancy-Analysis-Power-BI-Dashboard/blob/main/Life%20Expectancy%20Insights.pdf)
+
+---
 
 ## 🔍 How to Use This Project  
 
 1️⃣ **Download the Power BI file** (`PowerBI_Dashboard.pbix`).  
 2️⃣ **Explore the interactive dashboard** – Check out different visualizations and filters.  
 3️⃣ **Analyze the key insights** to understand how various factors affect life expectancy.  
+
 
 ## 🌟 Why This Project Matters  
 
