@@ -53,7 +53,7 @@ By analyzing this data, we can help shape **better policies, investments, and pu
 
 ---
 
-🔗 **Let’s Connect!**  
+## 🔗 **Let’s Connect!**  
 If you found this interesting, let’s discuss more! Connect with me on
 - **Portfolio**: [DataSciencePortfol.io](https://www.datascienceportfol.io/nikhilroy744)  
 - **LinkedIn**: [Nikhil Kumar Roy](https://www.linkedin.com/in/nikhil-kumar-roy/)    
